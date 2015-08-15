@@ -1,0 +1,22 @@
+{
+  "name": "require-anywhere",
+  "version": "1.0.0",
+  "description": "Require files relative to the position of your package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/UnwrittenFun/require-anywhere.git"
+  },
+  "keywords": [
+    "require", "package", "absolute", "anywhere"
+  ],
+  "author": "UnwrittenFun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnwrittenFun/require-anywhere/issues"
+  },
+  "homepage": "https://github.com/UnwrittenFun/require-anywhere#readme"
+}
